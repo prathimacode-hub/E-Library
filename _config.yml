@@ -1,6 +1,0 @@
-theme: jekyll-theme-cayman
-title: E-Library
-show_downloads: true
-include: [CONTRIBUTING.md, CODE_OF_CONDUCT.md]
-plugins:
-  - jemoji
