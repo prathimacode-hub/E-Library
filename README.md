@@ -75,3 +75,5 @@ This project follows MIT [License](LICENSE)
 If you liked working on this project, please share this project and ⭐ this project to help as many people in open source as you can.
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 
+<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
+</td>
