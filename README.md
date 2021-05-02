@@ -66,7 +66,7 @@ Show your support by starring this repository.
 
 
 <h2>License</h2>
-This project follows MIT License.
+This project follows MIT [License](https://github.com/prathimacode-hub/E-Library/blob/main/LICENSE).
 
 <h2>⭐Give this Project a Star</h2>
 
