@@ -54,7 +54,7 @@ Show your support by starring this repository.
 1. [Python3ForAbsoluteBeginers.pdf](https://github.com/prathimacode-hub/E-Library/blob/main/Python/Python3ForAbsoluteBeginers.pdf)
 
 
-<h2>❤️Project Admin</h2>
+## ❤️ Project Admin
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=150px height=150px /></a>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
