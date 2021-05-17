@@ -70,7 +70,7 @@ This project follows MIT License.
 
 <h2>⭐Give this Project a Star</h2>
 
-[![GitHub followers](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimacode-hub/) [![Twitter Follow](https://img.shields.io/twitter/follow/prathimak88?style=social)](https://twitter.com/prathimak88)
+[![GitHub Follow](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimacode-hub/) [![Twitter Follow](https://img.shields.io/twitter/follow/prathimak88?style=social)](https://twitter.com/prathimak88)
 
 If you liked working on this project, please share this project and ⭐ this project to help as many people in open source as you can.
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
