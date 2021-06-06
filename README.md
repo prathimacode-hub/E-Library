@@ -1,12 +1,31 @@
-<h1>✔E-Library </h1>
+# Welcome to E-Library 👋
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/prathimacode-hub/E-Library/pulls) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/prathimacode-hub/E-Library)
+![Alt text of image](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/E-Library.png)
 
-One stop place for all technical guidance on various topics and programming languages. 
 
-Everyone are welcomed. Feel free to drop a PR to contribute useful resources like books, documents or notes, cheatsheets etc. I will accept as fast as possible ;)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/prathimacode-hub/E-Library/pulls) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/prathimacode-hub/E-Library) ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) ![Maintenance](https://img.shields.io/maintenance/yes/2021) </p> 
+
+
+<h2> 🔖Repository</h2>
+
+This project would be a One stop place for all technical guidance on various topics and programming languages. 
+
+You can get all the documents here needed to help your learning journey and be a pro.
+
+Everyone are welcomed. Feel free to drop a PR to contribute useful resources like books, documents or notes, cheatsheets etc. Sharing is caring.
 
 Show your support by starring this repository. 
+
+
+<h2> 🙌Join Here</h2>
+
+Anyone related to technology who are looking to contribute to open-source, are all invited to hop in. This place has a task for everyone.
+
+If you find this repo useful or it did help you in enhancing your knowledge and wisdom, do share it with the world so that others can get benefitted as you did.  
+
+This project is created to make your journey useful and provide right guidance to master your skills. It has everything to offer for you and is definitely your E-Library.
+
+Drop me a private message, if this repository enriched your knowledge better and made you progress in your career. I would be more happy to hear you out. Any queries, feel free to ask. I would be happy to assist you.
 
 
 <h2>💥How to Collaborate?</h2>
@@ -54,26 +73,57 @@ Show your support by starring this repository.
 1. [Python3ForAbsoluteBeginers.pdf](https://github.com/prathimacode-hub/E-Library/blob/main/Python/Python3ForAbsoluteBeginers.pdf)
 
 
-## ❤️ Project Admin
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=150px height=150px /></a>
+<h2>👨‍💻 Workflow:</h2>
+
+- Fork the repository
+
+- Clone your forked repository using terminal or gitbash.
+
+- Make changes to the cloned repository
+
+- Add, Commit and Push
+
+- Then in GitHub, in your cloned repository, find the option to make a pull request. 
+
+> print("Start contributing for **E-Library**")
+
+
+<h2>📜 Code Of Conduct</h2>
+
+You can find our Code of Conduct [here](https://github.com/prathimacode-hub/E-Library/blob/main/CODE_OF_CONDUCT.md).
+
+
+<h2> 📝License</h2>
+
+This project follows the MIT [License](LICENSE)
+
+
+<h2> 😎 Project Admin</h2>
+
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=100px height=100px /></a>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
-
-**Prathima Kadari**
 
 <a href="https://twitter.com/prathimak88"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
 
 
-<h2>License</h2>
-This project follows MIT License.
-
 <h2>⭐Give this Project a Star</h2>
 
-[![GitHub Follow](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimacode-hub/) [![Twitter Follow](https://img.shields.io/twitter/follow/prathimak88?style=social)](https://twitter.com/prathimak88)
+[![GitHub followers](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimak88/)  [![Twitter Follow](https://img.shields.io/twitter/follow/prathimak88?style=social)](https://twitter.com/prathimak88)
 
-If you liked working on this project, please share this project and ⭐ this project to help as many people in open source as you can.
+If you like this project, consider giving a ⭐ to this project and share it as much as you can.
+
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 
-<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
-</td>
+
+<h2>📬 Contact</h2>
+
+If you want to contact me, you can reach me through social handles.
+
+<a href="https://twitter.com/prathimak88"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
+
+
+© 2021 Prathima Kadari
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
